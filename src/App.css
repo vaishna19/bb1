@@ -1,0 +1,242 @@
+.App {
+  text-align: center;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.ant-layout-header{
+    height: 68px;
+    margin-top: 4px;
+    background-attachment: fixed;
+}
+.ant-breadcrumb{
+    margin: 1px 0px;
+    margin-left: 66px;
+    position: relative;
+    left: 65px;
+    top:17px;
+}
+.ant-list{
+  position: relative;
+    margin-left: 38px;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0px;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.App-link {
+  color: #61dafb;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.image-container {
+  max-width: 100%;
+  height: 134px;
+  width: 50%;
+}
+.ant-menu{
+  height: 100%;
+    border-right: 0px;
+    width: 255px;
+    position: relative;
+}
+.ant-menu-dark{
+ bottom: 163px; 
+}
+.ant-list {
+  text-align: center;
+}
+.ant-input-group-wrapper {
+  padding: 8px 346px;
+  height: 7px;
+  width: 2px;
+}
+.button{
+  position: relative;
+  background:#f47621;
+  border-radius: 0px;
+  left:9px;
+  color: white;
+  border:none;
+}
+.pic {
+  display: flex;
+  justify-content: space-between;
+  color:#f47621;
+  margin-top: 4px; 
+  font-size:16px;
+  position: relative;
+  left: -64px;
+}
+.into{
+  position: relative;
+  left: -26px;
+  color:black;
+}
+.logos {
+  display: flex;
+  justify-content: space-between;
+}
+.basket {
+  background-color: #fff;
+  border-radius: 100px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  margin: 0px 0 0 0px;
+  float: left;
+  margin-right: -310px;
+  margin-top: 16px;
+  left: 13px;
+  margin-top: 11px;
+  position: relative;
+  top: -8px;
+  left: 9px;
+}
+.menu{
+    height: 30px;
+    position: relative;
+    left: 2px;
+    top: -9px;
+}
+.right {
+  background-color: #fff;
+  border-radius: 100px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  margin: 0px 0 0 0px;
+  float: left;
+  margin-top: 9px;
+  margin-right: -32px;
+  height: 32px;
+  position: relative;
+  left: 236px;
+ 
+}
+.searchicon{
+    position: relative;
+    height: 16px;
+    left: -74px;
+    top: -2px;
+}
+.searchbar{
+    position: relative;
+    left: -71px;
+    margin-top: -3px;
+}
+.search {
+  padding: 5px 279px 3px 42px;
+  height: 38px;
+  width: 571px;
+  margin-top: 11px;
+  margin-left: -106px;
+  border-radius: 17px;
+}
+.bigbazar {
+  position: relative;
+  padding: 8px;
+  height: 47px;
+  width: 121px;
+  left:58px;
+  margin-top: 5px;
+  margin-left: -43px;
+}
+.customercare {
+  margin-top: 8px;
+  margin-left: -302px;
+}
+.shop {
+    margin-top: -24px;
+    color: #fff;
+    position: relative;
+    top: -9px;
+    left: -1px;
+    font-size: 14px;
+}
+.border {
+ border: 1px solid #fff;
+ border-radius: 34px;
+ width: 100px;
+ height: 42px;
+ left: -54px;
+ margin-top: 9px;
+ position: relative;
+ height: 35px;
+ margin-top: 11px;
+}
+.cart{
+position: relative;
+left: -110px;
+height:38px;
+}
+.basketborder{
+  border: 2px solid #fff;
+  border-radius: 79px;
+  margin-left: 15px;
+  width: 73px;
+  height: 45px;
+  margin-top: 7px;
+  position: relative;
+  left: 339px;
+  height: 35px;
+}
+.zero{
+  position: relative;
+  margin-left: 77px;
+  color: white;
+  left: -24px;
+  top: -17px;
+}
+.login{
+   position: relative;
+   color: white;
+   bottom: -17px;
+   left: 107px;
+}
+.discount{
+    position: relative;
+    background:#f47621;
+    float: left;
+    top: -180px;
+    left: -11px;
+    color: white;
+    border-radius: 3px;
+}
+.size{
+  color:Orange;
+}
+.add{
+    position: relative;
+    border: 1px solid orange;
+    width: 70px;
+    float: right;
+}
+.img{
+  text-align: left;
+  position: relative;
+  bottom: -15px;
+}
+.discountedpercentage{
+    position: relative;
+    left: -44px;
+    top: -38px;
+    color: #03334f;
+}
