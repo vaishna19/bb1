@@ -240,3 +240,29 @@ height:38px;
     top: -38px;
     color: #03334f;
 }
+.submit{
+  position: relative;
+  color: white;
+  background: #f47621;
+  border: none;
+}
+.title{
+  position: relative;
+  left: 233px;
+  font-size: 26px;
+  top: 5px;
+}
+.supermarket{
+  position: relative;
+  left: 409px;
+  top: 1px;
+  border-radius: 12px;
+  color: white;
+  background: mediumblue;
+}
+.zeroprop{
+position: relative;
+left: 522px;
+font-size: 24px;
+top: 7px;
+}

@@ -62,13 +62,13 @@
         },
         {
             "id": "11",
-            "name": "Farm fresh plum",
+            "name": "Farm fresh Plum Cake",
             "price": "₹.234.00",
             "image": "https://img-global.cpcdn.com/recipes/e4bb4c8c1e97f485/751x532cq70/eggless-plum-cake-recipe-main-photo.jpg"
         },
         {
             "id": "12",
-            "name": "Farm fresh blueberry",
+            "name": "Farm fresh blueberry Cake",
             "price": "₹.213.00",
             "image": "https://i.pinimg.com/originals/80/8c/e6/808ce658a4327b0ecc0c4e6ce52e4983.jpg"
         },
@@ -155,6 +155,24 @@
             "name": "Wood Apple",
             "price": "₹.84.00",
             "image": "https://cflare.shop.bigbazaar.com/cdn-cgi/image/width=450/media/product/01/04/11-wide_zoom.jpg"
-        }
+        },
+        {
+            "id": "24",
+            "name": "Loreal Paris Shampoo",
+            "price": "₹.184.00",
+            "image": "https://cflare.shop.bigbazaar.com/cdn-cgi/image/width=450/media/product/89/201/1-wide_zoom.jpg"
+        },
+        {
+            "id": "24",
+            "name": "Nutella Spread",
+            "price": "₹.84.00",
+            "image":"https://cflare.shop.bigbazaar.com/cdn-cgi/image/width=450/media/product/50/11/1_1-wide_zoom.jpg"
+},
+{
+    "id": "24",
+    "name": "HeadPhones",
+    "price": "₹.814.00",
+    "image":"https://cflare.shop.bigbazaar.com/cdn-cgi/image/width=450/media/product/73/291/1-wide_zoom.jpg"
+}
     ]
 }
